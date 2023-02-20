@@ -2,6 +2,7 @@
 title: gitで複数アカウントメモ
 date: "2023-02-20T09:14:00.000Z"
 description: gitで複数アカウント際のメモです。
+tags: ["Git"]
 ---
 
 
